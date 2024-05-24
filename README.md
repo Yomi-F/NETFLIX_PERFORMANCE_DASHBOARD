@@ -1,4 +1,4 @@
-# NETFLIX_PERFORMANCE_DASHBOARD
+# NETFLIX PERFORMANCE DASHBOARD
 ![](https://github.com/Yomi-F/NETFLIX_PERFORMANCE_DASHBOARD/blob/main/NETFLIX%20PERFORMANCE%20DASHBOARD.png)
 
 # Netflix Performance Analysis Portfolio
@@ -55,7 +55,14 @@ Recognizing the impact of top movie producers on content consumption.
 This portfolio project showcases my prowess in data analysis and visualization using PowerBI. By immersing myself in Netflix's data landscape, I unearthed valuable insights that can inform content strategies, audience targeting, and decision-making processes within the entertainment industry.
 
 
-## This Analysis was carried out both on MIcrosoft excel and Powerbi
+### This Analysis was carried out both on MIcrosoft excel and Powerbi
+
+
+### Dataset Documentation:
+
+This data was gotten from Kaggle
+
+
 ---
 
 ## Author
